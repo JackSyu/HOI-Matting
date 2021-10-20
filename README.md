@@ -2,17 +2,10 @@
 Official repository for the ICCV2021 paper [Virtual Multi-Modality Self-Supervised Foreground Matting for
 Human-Object Interaction](https://arxiv.org/abs/2110.03278).
 * [Watch project video](https://www.youtube.com/watch?v=2_EH1KpDrww)
-## Paper
-[Paper(Arxiv)](https://arxiv.org/abs/2110.03278)
-## Preparation
-```
-Python 3.5
-Tensorflow 1.12.0.
-CUDA 9.0 or higher. 
-MATLAB (optionally）
-```
-### Requirement
 
+## Datasets
+* LFM40K(coming soon)
+* UFM75K(coming soon)
 ## Citation
 If you find our code useful, please consider citing:
 ```
