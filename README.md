@@ -1,5 +1,5 @@
 # HOI-Matting
-Official repository for the paper [Virtual Multi-Modality Self-Supervised Foreground Matting for
+Official repository for the ICCV2021 paper [Virtual Multi-Modality Self-Supervised Foreground Matting for
 Human-Object Interaction](https://arxiv.org/abs/2110.03278).
 * [Watch project video](https://www.youtube.com/watch?v=2_EH1KpDrww)
 ## Paper
