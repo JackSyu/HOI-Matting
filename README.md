@@ -12,6 +12,15 @@ Human-Object Interaction](https://arxiv.org/abs/2110.03278).
 </p>
 <br>
 
+## Application
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=2_EH1KpDrww">
+        <img src="https://github.com/JackSyu/HOI-Matting/blob/main/application1.gif">
+    </a>
+</p>
+<br>
+
 ## Datasets
 * LFM40K(coming soon)
 * UFM75K(coming soon)
