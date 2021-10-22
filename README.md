@@ -25,7 +25,7 @@ Human-Object Interaction](https://arxiv.org/abs/2110.03278).
 * LFM40K(coming soon)
 * UFM75K(coming soon)
 ## Citation
-If you find our code useful, please consider citing:
+If you find our code and datasets useful, please consider citing:
 ```
 @InProceedings{Xu_2021_ICCV,
     author    = {Xu, Bo and Huang, Han and Lu, Cheng and Li, Ziwen and Guo, Yandong},
